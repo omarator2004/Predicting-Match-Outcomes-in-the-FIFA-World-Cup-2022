@@ -27,6 +27,8 @@ The dataset comprises match-level statistics, including:
 
 **Note:** Non-numeric columns like `Team`, `Against`, `Group`, and `Pts` were excluded from the training process.
 
+**CSV file:** `Fifa Worldcup 2022.csv`
+
 ## 🤖 Model
 
 * **Algorithm:** Random Forest Classifier
@@ -45,6 +47,8 @@ An interactive interface allows users to adjust match statistics using sliders a
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b5ALSPGgkJtTbonRHb4MkedyScU8bnWb?usp=sharing)
 
+**Notebook name:** `Predicting Match Outcomes in the FIFA World Cup 2022`
+
 ## 🚀 Usage
 
 1. Open the notebook using the link above.
@@ -60,9 +64,9 @@ An interactive interface allows users to adjust match statistics using sliders a
 fifa2022-match-prediction/
 │
 ├── data/                   # Dataset files
-│   └── fifa2022_matches.csv
+│   └── Fifa Worldcup 2022.csv
 ├── notebooks/              # Jupyter notebooks
-│   └── match_prediction.ipynb
+│   └── Predicting Match Outcomes in the FIFA World Cup 2022.ipynb
 └── README.md               # Project description
 ```
 
