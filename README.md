@@ -74,17 +74,3 @@ fifa2022-match-prediction/
 
 This project is open-source and available under the MIT License.
 ```
-
-```
-## Acknowledgments
-
-
-- **Data Source:** [FIFA 2022 Match Statistics Dataset](https://www.kaggle.com/datasets/abecklas/fifa-world-cup-2022-matches)
-- **Libraries Used:** pandas, scikit-learn, matplotlib, ipywidgets
-
-
-## License
-
-
-This project is open-source and available under the MIT License.
-```
